@@ -8,15 +8,11 @@
    - IT
    - Security
 - 🌱 I’m currently learning Python, Javascript, and Minecraft Bedrock Modding, IT, Computer Stuff
-- 💞️ I’m looking to collaborate on some BASH scripts, small Python applications, and Minecraft stuff
-- Send Me Money:
-- - Bitcoin: 3BMpvQ3xmdSfK36N2YiVhWPAR9uNgnX9qW
-  - Ether (Ethereum): 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
-  - FIO Handle: ghostkiller7724@opera
-  - Cronos: 0x57bc0FfdDb13a1E3414F5e0edB701783878b7154
+- 💞️ I’m looking to collaborate on some BASH scripts, Python applications, and Minecraft stuff
 - 📫 How to reach me:
-  - EMAIL (Personal/Work): MBM3543@gmail.com
-  - EMAIL: mylz.mccullough@flippinschools.net
+  - EMAIL (Personal/Work): [MBM3543@gmail.com](mailto:mbm3543@gmail.com)
+  - EMAIL (Proton): [ghostkiller7724@proton.me](mailto:ghostkiller7724@proton.me)
+  - EMAIL (School) : [mylz.mccullough@flippinschools.net](mailto:mylz.mccullough@flippinschools.net)
   - XBox: GhostKiller7724
   - PSN: GhostKiller35431
   - Minecraft Forum: ghostkiller3543
@@ -24,9 +20,9 @@
   - IRC: see [irc.md](./irc.md)
   - Discord: GhostKiller3543#3683 (might be wrong)
   - Matrix:
- <!-- - Reddit: [u/GhostKiller35431](https://www.reddit.com/user/GhostKiller35431) -->
+  - Reddit: [u/GhostKiller35431](https://www.reddit.com/user/GhostKiller35431)
   - Tox: 
-  - 
+  - LinkdedIn: 
 
 
 
